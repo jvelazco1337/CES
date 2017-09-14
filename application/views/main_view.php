@@ -166,7 +166,7 @@
 		<!-- color picker input, reads hex -->
 		<div>
 			<label for="favcolor">Favorite Color: </label><br>
-			<input id="favcolor" type="color" name="favcolor">
+			<input id="favcolor" type="color" name="favcolor" value="#">
 		</div>
 
 		
